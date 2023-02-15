@@ -1,0 +1,16 @@
+RANK
+	SCORE = 0
+	RANK = C
+RANK_END
+
+RANK
+	SCORE = 0
+	RANK = C
+RANK_END
+
+RANK
+	SCORE = 0
+	RANK = C
+RANK_END
+
+END_SCRIPT		# Ç±ÇÃçsÇÕê‚ëŒè¡Ç≥Ç»Ç¢Ç±Ç∆ÅI
